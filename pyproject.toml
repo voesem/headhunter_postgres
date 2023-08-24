@@ -9,6 +9,7 @@ packages = [{include = "headhunter_postgres"}]
 [tool.poetry.dependencies]
 python = "^3.8"
 requests = "^2.31.0"
+psycopg2 = "^2.9.7"
 
 
 [build-system]
